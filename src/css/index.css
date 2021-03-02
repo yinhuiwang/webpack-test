@@ -1,0 +1,41 @@
+/* @import './index.less'; */
+
+div {
+    color: aqua;
+}
+img {
+    transform: translate(100px, 100px);
+    border: 1px solid #555;
+    width: 100px;
+}
+/* span.span-img {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: url('./../assets/images/logoLOGO.png') no-repeat;
+} */
+
+.img1 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: url('./../assets/images/jpg/xx.jpg?noSprites') no-repeat;
+}
+.img2 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: url('./../assets/images/jpg/xx2.jpg') no-repeat;
+}
+.img3 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: url('./../assets/images/jpg/xx3.jpg') no-repeat;
+}
+.img4 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: url('./../assets/images/png/logoLOGO.png') no-repeat;
+}
